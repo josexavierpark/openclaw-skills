@@ -12,10 +12,10 @@ Dois repositórios:
 
 | Nível | O que significa | Quantas |
 |---|---|---|
-| Zero | funciona assim que instalar, sem nada a mais | 8 |
-| Só python3 | precisa do `python3` para o validador rodar | 5 |
-| Médio | um ou dois programas, sem conta externa | 3 |
-| Alto | programas, conta em serviço e chave de API | 3 |
+| Zero | funciona assim que instalar, sem nada a mais | 6 |
+| Só python3 | precisa do `python3` para o validador rodar | 6 |
+| Médio | um ou dois programas, no máximo uma chave grátis | 3 |
+| Alto | programas, conta em serviço e chave de API | 4 |
 
 ---
 
