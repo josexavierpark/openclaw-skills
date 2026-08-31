@@ -23,9 +23,9 @@ lados, então o conteúdo roda igual no Claude Code e no OpenClaw, sem nenhuma a
 
 ## Dependências
 
-Doze das treze rodam só com `python3`, porque os scripts usam apenas a biblioteca padrão.
+Onze das treze rodam só com `python3`, porque os scripts usam apenas a biblioteca padrão. Duas pedem mais: a `raio-x-ad` e a `lowticket-content`.
 
-A exceção é a `raio-x-ad`, que precisa de:
+A `raio-x-ad` precisa de:
 
 - `ffmpeg` e `ffprobe`
 - `yt-dlp`, só para analisar vídeo por URL
@@ -40,6 +40,20 @@ A chave gratuita sai em https://console.groq.com/keys. Sem chave, rode com `--no
 as seções visual e de 7 camadas ainda saem completas.
 
 Confira o ambiente com `bash skills/raio-x-ad/scripts/check-deps.sh`.
+
+A `lowticket-content` precisa da CLI do NotebookLM, que é onde a pesquisa vira fonte da
+verdade:
+
+```bash
+pipx install notebooklm
+notebooklm login                     # OAuth pelo navegador, uma vez
+notebooklm language set pt_BR
+```
+
+Ela também chama a skill `yt-search` na fase de descoberta de fontes, que não vem neste
+repositório. Sem ela, busque os vídeos na mão e alimente o notebook com as URLs.
+
+O detalhamento completo, skill por skill, está no [GUIA-SKILLS.md](GUIA-SKILLS.md).
 
 ## Instalar no OpenClaw
 
