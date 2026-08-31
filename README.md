@@ -50,14 +50,14 @@ Escolha um dos tres caminhos.
 **A. Nativo (recomendado).** Instala direto do git:
 
 ```bash
-openclaw skills install git:SEU_USUARIO/openclaw-skills@main --global
+openclaw skills install git:josexavierpark/openclaw-skills@main --global
 openclaw skills list
 ```
 
 **B. Clonar e apontar.** Deixa o repo em qualquer pasta e registra como raiz extra:
 
 ```bash
-git clone git@github.com:SEU_USUARIO/openclaw-skills.git ~/openclaw-skills
+git clone git@github.com:josexavierpark/openclaw-skills.git ~/openclaw-skills
 openclaw config set skills.load.extraDirs '["'"$HOME"'/openclaw-skills/skills"]'
 ```
 
