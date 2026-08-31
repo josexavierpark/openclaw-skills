@@ -1,0 +1,23 @@
+# segredos: nunca versionar
+.env
+.env.*
+*.key
+*.pem
+credentials*
+*token*.json
+
+# lixo de sistema e build
+.DS_Store
+__pycache__/
+*.pyc
+*.bak
+*.bak-*
+*.tmp
+node_modules/
+
+# saidas de trabalho
+workdir/
+output/
+*.mp4
+*.mp3
+*.wav

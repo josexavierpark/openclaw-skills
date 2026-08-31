@@ -1,0 +1,149 @@
+{
+ "n_docs": 11,
+ "docs": [
+  "doc-humano-01",
+  "doc-humano-02",
+  "doc-humano-03",
+  "doc-humano-04",
+  "doc-humano-05",
+  "doc-humano-06",
+  "doc-humano-07",
+  "doc-humano-08",
+  "doc-humano-09",
+  "doc-humano-10",
+  "doc-humano-11"
+ ],
+ "stats": {
+  "wps": {
+   "media": 12.763153220558332,
+   "dp": 3.0694269869766333
+  },
+  "que_100": {
+   "media": 3.4933313253246445,
+   "dp": 0.6986662650649289
+  },
+  "mente_100": {
+   "media": 0.618726861547303,
+   "dp": 0.17689451823924401
+  },
+  "prep_100": {
+   "media": 4.877088775166808,
+   "dp": 0.9754177550333616
+  },
+  "cv": {
+   "media": 0.6298644456823865,
+   "dp": 0.1259728891364773
+  },
+  "pct_curtas": {
+   "media": 26.034718174834456,
+   "dp": 12.62030106670942
+  },
+  "metronomo": {
+   "media": 5.818181818181818,
+   "dp": 1.6414063713879807
+  },
+  "tells_1000": {
+   "media": 0.6963628369489065,
+   "dp": 0.6685492505312867
+  },
+  "emdash_1000": {
+   "media": 0.45733531436815616,
+   "dp": 1.0703706863933449
+  },
+  "doispontos_1000": {
+   "media": 2.926201218974017,
+   "dp": 3.096208578042141
+  },
+  "naoexey_1000": {
+   "media": 0.03739764893086769,
+   "dp": 0.08503226326569667
+  },
+  "tres_1000": {
+   "media": 2.306004821959219,
+   "dp": 0.8841236794971915
+  },
+  "templating": {
+   "media": 1.7473470228899446,
+   "dp": 0.634786508666964
+  },
+  "templating_curto": {
+   "media": 1.540909090909091,
+   "dp": 1.478799909911317
+  }
+ },
+ "tells_base": {
+  "mergulhar em": 0.0,
+  "desbravar": 0.0,
+  "alavancar": 0.0,
+  "potencializar": 0.0,
+  "revolucionar": 0.0,
+  "fomentar": 0.0,
+  "nutrir": 0.0,
+  "aproveitar ao maximo": 0.0,
+  "desbloquear": 0.0592,
+  "desvendar": 0.0219,
+  "embarcar": 0.0,
+  "desvelar": 0.0,
+  "elevar": 0.0,
+  "otimizar": 0.0219,
+  "empoderar": 0.0,
+  "navegar por": 0.0,
+  "abracar": 0.0,
+  "robusto": 0.0,
+  "abrangente": 0.0,
+  "fluido": 0.0,
+  "sem atrito": 0.0,
+  "multifacetado": 0.0,
+  "vibrante": 0.0,
+  "intrincado": 0.0,
+  "crucial": 0.0,
+  "primordial": 0.0,
+  "matizado": 0.0,
+  "profundo impacto": 0.0,
+  "holistico": 0.0,
+  "sinergia": 0.0,
+  "paradigma": 0.0,
+  "ecossistema": 0.0,
+  "jornada": 0.0804,
+  "panorama": 0.0,
+  "tapecaria": 0.0,
+  "no cenario atual": 0.0,
+  "no mundo de hoje": 0.0,
+  "vale ressaltar": 0.0,
+  "e importante notar": 0.0,
+  "em suma": 0.0,
+  "em resumo": 0.0,
+  "por fim mas nao menos importante": 0.0,
+  "imagine so por um momento": 0.0,
+  "vamos explorar": 0.0,
+  "aqui estao": 0.0,
+  "aqui esta": 0.0678,
+  "a verdade e que": 0.1882,
+  "o segredo esta em": 0.0,
+  "nao se trata apenas de": 0.0,
+  "muito mais do que apenas": 0.0,
+  "seja voce": 0.0,
+  "desde ate": 0.0316,
+  "tanto quanto": 0.0,
+  "ou seja em outras palavras": 0.0,
+  "espero que este": 0.0,
+  "fico a disposicao": 0.0,
+  "qualquer duvida estou aqui": 0.0,
+  "em ultima analise": 0.0,
+  "de forma eficaz": 0.0,
+  "de maneira eficiente": 0.0,
+  "significativamente": 0.0,
+  "consideravelmente": 0.0,
+  "fundamentalmente": 0.0,
+  "essencialmente": 0.0219,
+  "literalmente": 0.2034,
+  "transformador": 0.0,
+  "inovador": 0.0,
+  "disruptivo": 0.0,
+  "poderoso aliado": 0.0,
+  "ferramenta poderosa": 0.0,
+  "passo a passo simples": 0.0,
+  "de forma pratica": 0.0,
+  "na pratica isso significa": 0.0
+ }
+}

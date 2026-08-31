@@ -1,0 +1,52 @@
+{
+ "nome": "renda-extra-digital",
+ "descricao": "Destilado de corpus real de anúncios validados de renda extra/negócio digital (17,8 mil palavras faladas). Concretos = a vida do público antes de conhecer a oferta (conta, boleto, crachá, marmita, carro, passaporte). Abstratos = o vocabulário de coach financeiro.",
+ "concretos": [
+  "internet", "celular", "tela", "notebook", "computador", "wifi", "link", "botão",
+  "aula", "vídeo", "print", "foto", "mensagem", "whatsapp",
+  "extrato", "conta", "banco", "boleto", "fatura", "salário", "saldo", "pix",
+  "dinheiro", "grana", "real", "reais", "centavo", "nota", "bolso", "carteira", "troco",
+  "carro", "carros", "moto", "casa", "quarto", "cozinha", "sofá", "cama", "geladeira",
+  "aluguel", "prestação", "parcela", "quarteirão", "terreno", "mato", "rua", "avenida",
+  "cidade", "prédio", "loja", "mercado", "supermercado", "feira",
+  "fila", "marmita", "ônibus", "metrô", "trânsito", "crachá", "chefe", "patrão",
+  "escritório", "expediente", "ponto", "currículo", "faculdade", "diploma",
+  "passaporte", "aeroporto", "avião", "mala", "hotel", "praia", "mundo",
+  "filho", "filhos", "família", "mãe", "pai", "irmão",
+  "hora", "horas", "minuto", "minutos", "dia", "dias", "semana", "semanas",
+  "mês", "meses", "ano", "anos", "número", "números", "zero",
+  "mil", "milhão", "milhões", "comissão", "venda", "vendas", "cliente", "clientes",
+  "produto", "ferramenta", "robô", "chave", "porta", "janela", "cadeado"
+ ],
+ "abstratos": [
+  "liberdade financeira", "mentalidade", "mindset", "propósito", "abundância",
+  "prosperidade", "jornada", "transformação", "superação", "disciplina", "foco",
+  "potencial", "protagonismo", "autoconhecimento", "empoderamento",
+  "autorresponsabilidade", "realidade financeira", "situação financeira",
+  "perspectiva", "ceticismo", "sucesso", "sacrifício", "conceito", "lógica",
+  "princípio", "estratégia", "solução", "processo", "metodologia", "escalabilidade",
+  "alavancagem", "empreendedorismo", "independência", "autonomia", "evolução",
+  "crescimento", "consistência", "comprometimento", "excelência", "melhor versão",
+  "estilo de vida", "qualidade de vida", "equilíbrio", "paradigma", "sinergia",
+  "ecossistema", "holístico", "robusto", "abrangente", "transformador"
+ ],
+ "marcadores_orais": [
+  "bora", "vambora", "bora lá", "pô", "mano", "cara", "sério", "gente", "enfim",
+  "caramba", "olha só", "olha", "se liga", "se liga só", "presta atenção",
+  "chega aí", "vem cá", "meu amigo", "minha amiga", "na moral", "falou",
+  "ponto final", "tá maluco", "pelo amor de deus", "deixa eu te falar",
+  "vou te falar", "vou te contar", "vou ser sincero", "vou ser bem sincero",
+  "quer ver", "aí", "então", "resumidamente", "pra quem não sabe", "eu te explico",
+  "esse aqui é", "essa aqui é", "dá uma olhada", "ah, mas", "mas calma", "calma",
+  "e detalhe", "simples assim", "tipo assim", "só isso"
+ ],
+ "imperativos": [
+  "clica", "clique", "clicar", "assiste", "assista", "responde", "responda",
+  "toca", "toque", "pare", "para de", "larga", "corre", "bora", "vambora",
+  "olha", "veja", "vem", "chega", "entra", "confia", "garante", "aproveita",
+  "se liga", "presta atenção", "escuta", "repara", "imagina", "pensa", "esquece",
+  "pega", "faz", "faça", "testa", "teste", "comece", "começa", "anota", "anote",
+  "segue", "siga", "manda", "abre", "guarda", "compara", "conta", "deixa",
+  "vai rápido", "não fica de fora", "não vai ficar de fora"
+ ]
+}
