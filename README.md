@@ -57,7 +57,7 @@ openclaw skills list
 **B. Clonar e apontar.** Deixa o repo em qualquer pasta e registra como raiz extra:
 
 ```bash
-git clone git@github.com:josexavierpark/openclaw-skills.git ~/openclaw-skills
+git clone https://github.com/josexavierpark/openclaw-skills.git ~/openclaw-skills
 openclaw config set skills.load.extraDirs '["'"$HOME"'/openclaw-skills/skills"]'
 ```
 
